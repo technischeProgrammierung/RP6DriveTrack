@@ -1,0 +1,890 @@
+Archive member included because of file (symbol)
+
+c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mulsi3.o)
+                              obj\Debug\RP6Examples_20120725f\RP6Lib\RP6base\RP6RobotBaseLib.o (__mulsi3)
+c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_udivmodhi4.o)
+                              obj\Debug\RP6Examples_20120725f\RP6Lib\RP6base\RP6RobotBaseLib.o (__udivmodhi4)
+c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_udivmodsi4.o)
+                              obj\Debug\RP6Examples_20120725f\RP6Lib\RP6base\RP6RobotBaseLib.o (__udivmodsi4)
+c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_exit.o)
+                              c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o (exit)
+c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_copy_data.o)
+                              obj\Debug\RP6Examples_20120725f\RP6Lib\RP6base\RP6RobotBaseLib.o (__do_copy_data)
+c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clear_bss.o)
+                              obj\Debug\RP6Examples_20120725f\RP6Lib\RP6base\RP6RobotBaseLib.o (__do_clear_bss)
+C:\WinAVR-20100110\avr\lib\libc.a(strlen.o)
+                              obj\Debug\RP6Examples_20120725f\RP6Lib\RP6common\RP6uart.o (strlen)
+C:\WinAVR-20100110\avr\lib\libc.a(itoa.o)
+                              obj\Debug\RP6Examples_20120725f\RP6Lib\RP6common\RP6uart.o (itoa)
+C:\WinAVR-20100110\avr\lib\libc.a(strrev.o)
+                              C:\WinAVR-20100110\avr\lib\libc.a(itoa.o) (strrev)
+
+Allocating common symbols
+Common symbol       size              file
+
+bumper_left         0x1               obj\Debug\RP6Examples_20120725f\RP6Lib\RP6base\RP6RobotBaseLib.o
+preStop_R           0x2               obj\Debug\RP6Examples_20120725f\RP6Lib\RP6base\RP6RobotBaseLib.o
+mright_des_speed    0x2               obj\Debug\RP6Examples_20120725f\RP6Lib\RP6base\RP6RobotBaseLib.o
+I2CTWI_genCallCMD   0x1               obj\Debug\RP6Examples_20120725f\RP6Lib\RP6common\RP6I2CslaveTWI.o
+timer               0x2               obj\Debug\RP6Examples_20120725f\RP6Lib\RP6base\RP6RobotBaseLib.o
+mleft_des_speed     0x2               obj\Debug\RP6Examples_20120725f\RP6Lib\RP6base\RP6RobotBaseLib.o
+mleft_des_speed_tmp
+                    0x2               obj\Debug\RP6Examples_20120725f\RP6Lib\RP6base\RP6RobotBaseLib.o
+uart_status         0x1               obj\Debug\RP6Examples_20120725f\RP6Lib\RP6common\RP6uart.o
+I2CTWI_writeRegisters
+                    0x10              obj\Debug\RP6Examples_20120725f\RP6Lib\RP6common\RP6I2CslaveTWI.o
+motion_status       0x1               obj\Debug\RP6Examples_20120725f\RP6Lib\RP6base\RP6RobotBaseLib.o
+sysStatACS          0x1               obj\Debug\RP6Examples_20120725f\RP6Lib\RP6base\RP6RobotBaseLib.o
+ircomm_send         0x1               obj\Debug\RP6Examples_20120725f\RP6Lib\RP6base\RP6RobotBaseLib.o
+overcurrent_error_clear
+                    0x1               obj\Debug\RP6Examples_20120725f\RP6Lib\RP6base\RP6RobotBaseLib.o
+distanceToMove_R    0x2               obj\Debug\RP6Examples_20120725f\RP6Lib\RP6base\RP6RobotBaseLib.o
+acs_pulse           0x1               obj\Debug\RP6Examples_20120725f\RP6Lib\RP6base\RP6RobotBaseLib.o
+left_i              0x2               obj\Debug\RP6Examples_20120725f\RP6Lib\RP6base\RP6RobotBaseLib.o
+IRCOMM_RC5_data     0x2               obj\Debug\RP6Examples_20120725f\RP6Lib\RP6base\RP6RobotBaseLib.o
+motor_control       0x1               obj\Debug\RP6Examples_20120725f\RP6Lib\RP6base\RP6RobotBaseLib.o
+leds_on             0x1               obj\Debug\RP6Examples_20120725f\RP6Lib\RP6base\RP6RobotBaseLib.o
+mleft_power         0x2               obj\Debug\RP6Examples_20120725f\RP6Lib\RP6base\RP6RobotBaseLib.o
+mleft_speed         0x2               obj\Debug\RP6Examples_20120725f\RP6Lib\RP6base\RP6RobotBaseLib.o
+preDecelerate_R     0x2               obj\Debug\RP6Examples_20120725f\RP6Lib\RP6base\RP6RobotBaseLib.o
+RP6Settings         0x12              obj\Debug\program\DriveTrack\main.o
+mright_des_speed_tmp
+                    0x2               obj\Debug\RP6Examples_20120725f\RP6Lib\RP6base\RP6RobotBaseLib.o
+adc1                0x2               obj\Debug\RP6Examples_20120725f\RP6Lib\RP6base\RP6RobotBaseLib.o
+adcLSL              0x2               obj\Debug\RP6Examples_20120725f\RP6Lib\RP6base\RP6RobotBaseLib.o
+acs_timer           0x2               obj\Debug\RP6Examples_20120725f\RP6Lib\RP6base\RP6RobotBaseLib.o
+preStop_L           0x2               obj\Debug\RP6Examples_20120725f\RP6Lib\RP6base\RP6RobotBaseLib.o
+RP6State            0x2               obj\Debug\program\DriveTrack\main.o
+mright_power        0x2               obj\Debug\RP6Examples_20120725f\RP6Lib\RP6base\RP6RobotBaseLib.o
+mright_counter      0x2               obj\Debug\RP6Examples_20120725f\RP6Lib\RP6base\RP6RobotBaseLib.o
+ircomm_data_tmp     0x2               obj\Debug\RP6Examples_20120725f\RP6Lib\RP6base\RP6RobotBaseLib.o
+distanceToMove_L    0x2               obj\Debug\RP6Examples_20120725f\RP6Lib\RP6base\RP6RobotBaseLib.o
+stopwatches         0x11              obj\Debug\RP6Examples_20120725f\RP6Lib\RP6base\RP6RobotBaseLib.o
+overcurrent_timeout
+                    0x1               obj\Debug\RP6Examples_20120725f\RP6Lib\RP6base\RP6RobotBaseLib.o
+obstacle_left       0x1               obj\Debug\RP6Examples_20120725f\RP6Lib\RP6base\RP6RobotBaseLib.o
+overcurrent_errors  0x1               obj\Debug\RP6Examples_20120725f\RP6Lib\RP6base\RP6RobotBaseLib.o
+overcurrent_timer   0x1               obj\Debug\RP6Examples_20120725f\RP6Lib\RP6base\RP6RobotBaseLib.o
+statusLEDs          0x1               obj\Debug\RP6Examples_20120725f\RP6Lib\RP6base\RP6RobotBaseLib.o
+mright_ptmp         0x1               obj\Debug\RP6Examples_20120725f\RP6Lib\RP6base\RP6RobotBaseLib.o
+ircomm_data         0x2               obj\Debug\RP6Examples_20120725f\RP6Lib\RP6base\RP6RobotBaseLib.o
+adcLSR              0x2               obj\Debug\RP6Examples_20120725f\RP6Lib\RP6base\RP6RobotBaseLib.o
+speed_adjust_timer  0x1               obj\Debug\RP6Examples_20120725f\RP6Lib\RP6base\RP6RobotBaseLib.o
+obstacle_right      0x1               obj\Debug\RP6Examples_20120725f\RP6Lib\RP6base\RP6RobotBaseLib.o
+speed_timer         0x1               obj\Debug\RP6Examples_20120725f\RP6Lib\RP6base\RP6RobotBaseLib.o
+right_i             0x2               obj\Debug\RP6Examples_20120725f\RP6Lib\RP6base\RP6RobotBaseLib.o
+bumper_timer        0x1               obj\Debug\RP6Examples_20120725f\RP6Lib\RP6base\RP6RobotBaseLib.o
+mright_dist         0x2               obj\Debug\RP6Examples_20120725f\RP6Lib\RP6base\RP6RobotBaseLib.o
+preDecelerate_L     0x2               obj\Debug\RP6Examples_20120725f\RP6Lib\RP6base\RP6RobotBaseLib.o
+mleft_counter       0x2               obj\Debug\RP6Examples_20120725f\RP6Lib\RP6base\RP6RobotBaseLib.o
+adc0                0x2               obj\Debug\RP6Examples_20120725f\RP6Lib\RP6base\RP6RobotBaseLib.o
+delay_timer         0x1               obj\Debug\RP6Examples_20120725f\RP6Lib\RP6base\RP6RobotBaseLib.o
+I2CTWI_readRegisters
+                    0x30              obj\Debug\RP6Examples_20120725f\RP6Lib\RP6common\RP6I2CslaveTWI.o
+adcMotorCurrentRight
+                    0x2               obj\Debug\RP6Examples_20120725f\RP6Lib\RP6base\RP6RobotBaseLib.o
+ms_timer            0x1               obj\Debug\RP6Examples_20120725f\RP6Lib\RP6base\RP6RobotBaseLib.o
+mright_speed        0x2               obj\Debug\RP6Examples_20120725f\RP6Lib\RP6base\RP6RobotBaseLib.o
+mleft_dist          0x2               obj\Debug\RP6Examples_20120725f\RP6Lib\RP6base\RP6RobotBaseLib.o
+bumper_right        0x1               obj\Debug\RP6Examples_20120725f\RP6Lib\RP6base\RP6RobotBaseLib.o
+acs_event_counter   0x1               obj\Debug\RP6Examples_20120725f\RP6Lib\RP6base\RP6RobotBaseLib.o
+motion_status_tmp   0x1               obj\Debug\RP6Examples_20120725f\RP6Lib\RP6base\RP6RobotBaseLib.o
+adcBat              0x2               obj\Debug\RP6Examples_20120725f\RP6Lib\RP6base\RP6RobotBaseLib.o
+uart_receive_buffer
+                    0x21              obj\Debug\RP6Examples_20120725f\RP6Lib\RP6common\RP6uart.o
+IRCOMM_RC5_data_ok  0x2               obj\Debug\RP6Examples_20120725f\RP6Lib\RP6base\RP6RobotBaseLib.o
+mleft_ptmp          0x1               obj\Debug\RP6Examples_20120725f\RP6Lib\RP6base\RP6RobotBaseLib.o
+adcMotorCurrentLeft
+                    0x2               obj\Debug\RP6Examples_20120725f\RP6Lib\RP6base\RP6RobotBaseLib.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+text             0x00000000         0x00020000         xr
+data             0x00800060         0x0000ffa0         rw !x
+eeprom           0x00810000         0x00010000         rw !x
+fuse             0x00820000         0x00000400         rw !x
+lock             0x00830000         0x00000400         rw !x
+signature        0x00840000         0x00000400         rw !x
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+LOAD obj\Debug\RP6Examples_20120725f\RP6Lib\RP6base\RP6RobotBaseLib.o
+LOAD obj\Debug\RP6Examples_20120725f\RP6Lib\RP6common\RP6I2CslaveTWI.o
+LOAD obj\Debug\RP6Examples_20120725f\RP6Lib\RP6common\RP6uart.o
+LOAD obj\Debug\program\DriveTrack\main.o
+LOAD c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a
+LOAD C:\WinAVR-20100110\avr\lib\libm.a
+LOAD c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a
+LOAD C:\WinAVR-20100110\avr\lib\libc.a
+LOAD c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a
+
+.hash
+ *(.hash)
+
+.dynsym
+ *(.dynsym)
+
+.dynstr
+ *(.dynstr)
+
+.gnu.version
+ *(.gnu.version)
+
+.gnu.version_d
+ *(.gnu.version_d)
+
+.gnu.version_r
+ *(.gnu.version_r)
+
+.rel.init
+ *(.rel.init)
+
+.rela.init
+ *(.rela.init)
+
+.rel.text
+ *(.rel.text)
+ *(.rel.text.*)
+ *(.rel.gnu.linkonce.t*)
+
+.rela.text
+ *(.rela.text)
+ *(.rela.text.*)
+ *(.rela.gnu.linkonce.t*)
+
+.rel.fini
+ *(.rel.fini)
+
+.rela.fini
+ *(.rela.fini)
+
+.rel.rodata
+ *(.rel.rodata)
+ *(.rel.rodata.*)
+ *(.rel.gnu.linkonce.r*)
+
+.rela.rodata
+ *(.rela.rodata)
+ *(.rela.rodata.*)
+ *(.rela.gnu.linkonce.r*)
+
+.rel.data
+ *(.rel.data)
+ *(.rel.data.*)
+ *(.rel.gnu.linkonce.d*)
+
+.rela.data
+ *(.rela.data)
+ *(.rela.data.*)
+ *(.rela.gnu.linkonce.d*)
+
+.rel.ctors
+ *(.rel.ctors)
+
+.rela.ctors
+ *(.rela.ctors)
+
+.rel.dtors
+ *(.rel.dtors)
+
+.rela.dtors
+ *(.rela.dtors)
+
+.rel.got
+ *(.rel.got)
+
+.rela.got
+ *(.rela.got)
+
+.rel.bss
+ *(.rel.bss)
+
+.rela.bss
+ *(.rela.bss)
+
+.rel.plt
+ *(.rel.plt)
+
+.rela.plt
+ *(.rela.plt)
+
+.text           0x00000000     0x326a
+ *(.vectors)
+ .vectors       0x00000000       0x54 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+                0x00000000                __vectors
+                0x00000000                __vector_default
+ *(.vectors)
+ *(.progmem.gcc*)
+ *(.progmem*)
+ .progmem.data  0x00000054      0x1be obj\Debug\RP6Examples_20120725f\RP6Lib\RP6base\RP6RobotBaseLib.o
+                0x00000212                . = ALIGN (0x2)
+                0x00000212                __trampolines_start = .
+ *(.trampolines)
+ .trampolines   0x00000212        0x0 linker stubs
+ *(.trampolines*)
+                0x00000212                __trampolines_end = .
+ *(.jumptables)
+ *(.jumptables*)
+ *(.lowtext)
+ *(.lowtext*)
+                0x00000212                __ctors_start = .
+ *(.ctors)
+                0x00000212                __ctors_end = .
+                0x00000212                __dtors_start = .
+ *(.dtors)
+                0x00000212                __dtors_end = .
+ SORT(*)(.ctors)
+ SORT(*)(.dtors)
+ *(.init0)
+ .init0         0x00000212        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+                0x00000212                __init
+ *(.init0)
+ *(.init1)
+ *(.init1)
+ *(.init2)
+ .init2         0x00000212        0xc c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+ *(.init2)
+ *(.init3)
+ *(.init3)
+ *(.init4)
+ .init4         0x0000021e       0x16 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_copy_data.o)
+                0x0000021e                __do_copy_data
+ .init4         0x00000234       0x10 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clear_bss.o)
+                0x00000234                __do_clear_bss
+ *(.init4)
+ *(.init5)
+ *(.init5)
+ *(.init6)
+ *(.init6)
+ *(.init7)
+ *(.init7)
+ *(.init8)
+ *(.init8)
+ *(.init9)
+ .init9         0x00000244        0x8 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+ *(.init9)
+ *(.text)
+ .text          0x0000024c        0x4 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+                0x0000024c                __vector_12
+                0x0000024c                __bad_interrupt
+                0x0000024c                __vector_6
+                0x0000024c                __vector_11
+                0x0000024c                __vector_17
+                0x0000024c                __vector_7
+                0x0000024c                __vector_5
+                0x0000024c                __vector_9
+                0x0000024c                __vector_15
+                0x0000024c                __vector_8
+                0x0000024c                __vector_14
+                0x0000024c                __vector_16
+                0x0000024c                __vector_18
+                0x0000024c                __vector_20
+ .text          0x00000250     0x22f0 obj\Debug\RP6Examples_20120725f\RP6Lib\RP6base\RP6RobotBaseLib.o
+                0x00000250                enablePowerOnWarning
+                0x0000231a                mSleep
+                0x00000700                __vector_1
+                0x000012e4                setMotorPower
+                0x00000432                getBumperRight
+                0x00000798                MOTIONCONTROL_stateChanged_DUMMY
+                0x00001600                IRCOMM_RC5dataReady_DUMMY
+                0x00000ee0                moveAtSpeedDirection
+                0x0000026a                disablePowerOnWarning
+                0x000003b2                setLEDs
+                0x00001194                rotate
+                0x0000132c                setMotorDir
+                0x0000239a                extIntON
+                0x00001d42                powerOFF
+                0x000022f8                sleep
+                0x0000157c                __vector_3
+                0x0000027e                updateStatusLEDs
+                0x000013a4                IRCOMM_sendRC5
+                0x0000235c                delayCycles
+                0x00001b3e                disableACS
+                0x000004a2                BUMPERS_setStateChangedHandler
+                0x00001c8c                setACSPwrMed
+                0x00001618                IRCOMM_setRC5DataReadyHandler
+                0x0000164a                ACS_setStateChangedHandler
+                0x0000051c                readADC
+                0x00000ffe                move
+                0x000003d0                getBumperLeft
+                0x0000166e                task_ACS
+                0x00000e32                moveAtSpeed
+                0x00000e7a                changeDirection
+                0x00001cd2                setACSPwrHigh
+                0x00001be4                setACSPwrOff
+                0x00001c46                setACSPwrLow
+                0x000007ca                emergencyShutdown
+                0x000004c6                task_Bumpers
+                0x000023ee                task_RP6System
+                0x0000163c                ACS_stateChanged_DUMMY
+                0x00001414                __vector_4
+                0x00001b90                enableACS
+                0x0000074c                __vector_2
+                0x000023c4                extIntOFF
+                0x00000590                startADC
+                0x00001d18                powerON
+                0x000007a6                MOTIONCONTROL_setStateChangedHandler
+                0x000008e6                task_motionControl
+                0x0000240c                initRobotBase
+                0x00000494                BUMPERS_stateChanged_DUMMY
+                0x00001d90                __vector_10
+                0x00000faa                stop
+                0x00000f72                isMovementComplete
+                0x000005b6                task_ADC
+ .text          0x00002540      0x200 obj\Debug\RP6Examples_20120725f\RP6Lib\RP6common\RP6I2CslaveTWI.o
+                0x00002578                __vector_19
+                0x00002540                I2CTWI_initSlave
+ .text          0x00002740      0x3be obj\Debug\RP6Examples_20120725f\RP6Lib\RP6common\RP6uart.o
+                0x000029be                readChar
+                0x00002a16                readChars
+                0x00002a9a                getBufferLength
+                0x00002ab6                clearReceptionBuffer
+                0x0000276e                writeString
+                0x000028a4                writeIntegerLength
+                0x0000292e                __vector_13
+                0x0000285a                writeInteger
+                0x00002740                writeChar
+                0x000027f8                writeStringLength
+                0x000027a8                writeNStringP
+ .text          0x00002afe      0x640 obj\Debug\program\DriveTrack\main.o
+                0x00002b82                stateMachine
+                0x00002afe                main
+                0x0000300a                evalSettings
+ .text          0x0000313e        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mulsi3.o)
+ .text          0x0000313e        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_udivmodhi4.o)
+ .text          0x0000313e        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_udivmodsi4.o)
+ .text          0x0000313e        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_exit.o)
+ .text          0x0000313e        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_copy_data.o)
+ .text          0x0000313e        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clear_bss.o)
+ .text          0x0000313e        0x0 C:\WinAVR-20100110\avr\lib\libc.a(strlen.o)
+ .text          0x0000313e        0x0 C:\WinAVR-20100110\avr\lib\libc.a(itoa.o)
+ .text          0x0000313e        0x0 C:\WinAVR-20100110\avr\lib\libc.a(strrev.o)
+                0x0000313e                . = ALIGN (0x2)
+ *(.text.*)
+ .text.libgcc   0x0000313e       0x3e c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mulsi3.o)
+                0x0000313e                __mulsi3
+ .text.libgcc   0x0000317c       0x28 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_udivmodhi4.o)
+                0x0000317c                __udivmodhi4
+ .text.libgcc   0x000031a4       0x44 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_udivmodsi4.o)
+                0x000031a4                __udivmodsi4
+ .text.libgcc   0x000031e8        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_exit.o)
+ .text.libgcc   0x000031e8        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc   0x000031e8        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clear_bss.o)
+ .text.avr-libc
+                0x000031e8       0x14 C:\WinAVR-20100110\avr\lib\libc.a(strlen.o)
+                0x000031e8                strlen
+ .text.avr-libc
+                0x000031fc       0x46 C:\WinAVR-20100110\avr\lib\libc.a(itoa.o)
+                0x000031fc                itoa
+ .text.avr-libc
+                0x00003242       0x24 C:\WinAVR-20100110\avr\lib\libc.a(strrev.o)
+                0x00003242                strrev
+                0x00003266                . = ALIGN (0x2)
+ *(.fini9)
+ .fini9         0x00003266        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_exit.o)
+                0x00003266                exit
+                0x00003266                _exit
+ *(.fini9)
+ *(.fini8)
+ *(.fini8)
+ *(.fini7)
+ *(.fini7)
+ *(.fini6)
+ *(.fini6)
+ *(.fini5)
+ *(.fini5)
+ *(.fini4)
+ *(.fini4)
+ *(.fini3)
+ *(.fini3)
+ *(.fini2)
+ *(.fini2)
+ *(.fini1)
+ *(.fini1)
+ *(.fini0)
+ .fini0         0x00003266        0x4 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_exit.o)
+ *(.fini0)
+                0x0000326a                _etext = .
+
+.data           0x00800060       0xc8 load address 0x0000326a
+                0x00800060                PROVIDE (__data_start, .)
+ *(.data)
+ .data          0x00800060        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+ .data          0x00800060        0x9 obj\Debug\RP6Examples_20120725f\RP6Lib\RP6base\RP6RobotBaseLib.o
+                0x00800064                acs_state
+ .data          0x00800069        0x0 obj\Debug\RP6Examples_20120725f\RP6Lib\RP6common\RP6I2CslaveTWI.o
+ .data          0x00800069        0x0 obj\Debug\RP6Examples_20120725f\RP6Lib\RP6common\RP6uart.o
+ .data          0x00800069       0xbe obj\Debug\program\DriveTrack\main.o
+ .data          0x00800127        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mulsi3.o)
+ .data          0x00800127        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_udivmodhi4.o)
+ .data          0x00800127        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_udivmodsi4.o)
+ .data          0x00800127        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_exit.o)
+ .data          0x00800127        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_copy_data.o)
+ .data          0x00800127        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clear_bss.o)
+ .data          0x00800127        0x0 C:\WinAVR-20100110\avr\lib\libc.a(strlen.o)
+ .data          0x00800127        0x0 C:\WinAVR-20100110\avr\lib\libc.a(itoa.o)
+ .data          0x00800127        0x0 C:\WinAVR-20100110\avr\lib\libc.a(strrev.o)
+ *(.data*)
+ *(.rodata)
+ *(.rodata*)
+ *(.gnu.linkonce.d*)
+                0x00800128                . = ALIGN (0x2)
+ *fill*         0x00800127        0x1 00
+                0x00800128                _edata = .
+                0x00800128                PROVIDE (__data_end, .)
+
+.bss            0x00800128      0x100
+                0x00800128                PROVIDE (__bss_start, .)
+ *(.bss)
+ .bss           0x00800128        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+ .bss           0x00800128       0x12 obj\Debug\RP6Examples_20120725f\RP6Lib\RP6base\RP6RobotBaseLib.o
+                0x00800128                mleft_des_dir
+                0x0080012c                drive_dir
+                0x00800129                mright_des_dir
+                0x0080012b                mright_dir
+                0x0080012a                mleft_dir
+ .bss           0x0080013a        0x6 obj\Debug\RP6Examples_20120725f\RP6Lib\RP6common\RP6I2CslaveTWI.o
+                0x0080013c                I2CTWI_readBusy
+                0x0080013a                I2CTWI_dataWasRead
+                0x0080013d                I2CTWI_writeBusy
+                0x0080013b                I2CTWI_dataReadFromReg
+ .bss           0x00800140        0x6 obj\Debug\RP6Examples_20120725f\RP6Lib\RP6common\RP6uart.o
+                0x00800142                read_size
+                0x00800141                write_pos
+                0x00800143                write_size
+                0x00800140                read_pos
+ .bss           0x00800146        0x0 obj\Debug\program\DriveTrack\main.o
+ .bss           0x00800146        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mulsi3.o)
+ .bss           0x00800146        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_udivmodhi4.o)
+ .bss           0x00800146        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_udivmodsi4.o)
+ .bss           0x00800146        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_exit.o)
+ .bss           0x00800146        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_copy_data.o)
+ .bss           0x00800146        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clear_bss.o)
+ .bss           0x00800146        0x0 C:\WinAVR-20100110\avr\lib\libc.a(strlen.o)
+ .bss           0x00800146        0x0 C:\WinAVR-20100110\avr\lib\libc.a(itoa.o)
+ .bss           0x00800146        0x0 C:\WinAVR-20100110\avr\lib\libc.a(strrev.o)
+ *(.bss*)
+ *(COMMON)
+ COMMON         0x00800146       0x6b obj\Debug\RP6Examples_20120725f\RP6Lib\RP6base\RP6RobotBaseLib.o
+                0x00800146                bumper_left
+                0x00800147                preStop_R
+                0x00800149                mright_des_speed
+                0x0080014b                timer
+                0x0080014d                mleft_des_speed
+                0x0080014f                mleft_des_speed_tmp
+                0x00800151                motion_status
+                0x00800152                sysStatACS
+                0x00800153                ircomm_send
+                0x00800154                overcurrent_error_clear
+                0x00800155                distanceToMove_R
+                0x00800157                acs_pulse
+                0x00800158                left_i
+                0x0080015a                IRCOMM_RC5_data
+                0x0080015c                motor_control
+                0x0080015d                leds_on
+                0x0080015e                mleft_power
+                0x00800160                mleft_speed
+                0x00800162                preDecelerate_R
+                0x00800164                mright_des_speed_tmp
+                0x00800166                adc1
+                0x00800168                adcLSL
+                0x0080016a                acs_timer
+                0x0080016c                preStop_L
+                0x0080016e                mright_power
+                0x00800170                mright_counter
+                0x00800172                ircomm_data_tmp
+                0x00800174                distanceToMove_L
+                0x00800176                stopwatches
+                0x00800187                overcurrent_timeout
+                0x00800188                obstacle_left
+                0x00800189                overcurrent_errors
+                0x0080018a                overcurrent_timer
+                0x0080018b                statusLEDs
+                0x0080018c                mright_ptmp
+                0x0080018d                ircomm_data
+                0x0080018f                adcLSR
+                0x00800191                speed_adjust_timer
+                0x00800192                obstacle_right
+                0x00800193                speed_timer
+                0x00800194                right_i
+                0x00800196                bumper_timer
+                0x00800197                mright_dist
+                0x00800199                preDecelerate_L
+                0x0080019b                mleft_counter
+                0x0080019d                adc0
+                0x0080019f                delay_timer
+                0x008001a0                adcMotorCurrentRight
+                0x008001a2                ms_timer
+                0x008001a3                mright_speed
+                0x008001a5                mleft_dist
+                0x008001a7                bumper_right
+                0x008001a8                acs_event_counter
+                0x008001a9                motion_status_tmp
+                0x008001aa                adcBat
+                0x008001ac                IRCOMM_RC5_data_ok
+                0x008001ae                mleft_ptmp
+                0x008001af                adcMotorCurrentLeft
+ COMMON         0x008001b1       0x41 obj\Debug\RP6Examples_20120725f\RP6Lib\RP6common\RP6I2CslaveTWI.o
+                0x008001b1                I2CTWI_genCallCMD
+                0x008001b2                I2CTWI_writeRegisters
+                0x008001c2                I2CTWI_readRegisters
+ COMMON         0x008001f2       0x22 obj\Debug\RP6Examples_20120725f\RP6Lib\RP6common\RP6uart.o
+                0x008001f2                uart_status
+                0x008001f3                uart_receive_buffer
+ COMMON         0x00800214       0x14 obj\Debug\program\DriveTrack\main.o
+                0x00800214                RP6Settings
+                0x00800226                RP6State
+                0x00800228                PROVIDE (__bss_end, .)
+                0x0000326a                __data_load_start = LOADADDR (.data)
+                0x00003332                __data_load_end = (__data_load_start + SIZEOF (.data))
+
+.noinit         0x00800228        0x0
+                0x00800228                PROVIDE (__noinit_start, .)
+ *(.noinit*)
+                0x00800228                PROVIDE (__noinit_end, .)
+                0x00800228                _end = .
+                0x00800228                PROVIDE (__heap_start, .)
+
+.eeprom         0x00810000        0x0
+ *(.eeprom*)
+                0x00810000                __eeprom_end = .
+
+.fuse
+ *(.fuse)
+ *(.lfuse)
+ *(.hfuse)
+ *(.efuse)
+
+.lock
+ *(.lock*)
+
+.signature
+ *(.signature*)
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment
+ *(.comment)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x00000000       0x80
+ *(.debug_aranges)
+ .debug_aranges
+                0x00000000       0x20 obj\Debug\RP6Examples_20120725f\RP6Lib\RP6base\RP6RobotBaseLib.o
+ .debug_aranges
+                0x00000020       0x20 obj\Debug\RP6Examples_20120725f\RP6Lib\RP6common\RP6I2CslaveTWI.o
+ .debug_aranges
+                0x00000040       0x20 obj\Debug\RP6Examples_20120725f\RP6Lib\RP6common\RP6uart.o
+ .debug_aranges
+                0x00000060       0x20 obj\Debug\program\DriveTrack\main.o
+
+.debug_pubnames
+                0x00000000      0xac1
+ *(.debug_pubnames)
+ .debug_pubnames
+                0x00000000      0x829 obj\Debug\RP6Examples_20120725f\RP6Lib\RP6base\RP6RobotBaseLib.o
+ .debug_pubnames
+                0x00000829       0xdb obj\Debug\RP6Examples_20120725f\RP6Lib\RP6common\RP6I2CslaveTWI.o
+ .debug_pubnames
+                0x00000904      0x138 obj\Debug\RP6Examples_20120725f\RP6Lib\RP6common\RP6uart.o
+ .debug_pubnames
+                0x00000a3c       0x85 obj\Debug\program\DriveTrack\main.o
+
+.debug_info     0x00000000     0x1c48
+ *(.debug_info)
+ .debug_info    0x00000000     0x1336 obj\Debug\RP6Examples_20120725f\RP6Lib\RP6base\RP6RobotBaseLib.o
+ .debug_info    0x00001336      0x176 obj\Debug\RP6Examples_20120725f\RP6Lib\RP6common\RP6I2CslaveTWI.o
+ .debug_info    0x000014ac      0x39c obj\Debug\RP6Examples_20120725f\RP6Lib\RP6common\RP6uart.o
+ .debug_info    0x00001848      0x400 obj\Debug\program\DriveTrack\main.o
+ *(.gnu.linkonce.wi.*)
+
+.debug_abbrev   0x00000000      0x5df
+ *(.debug_abbrev)
+ .debug_abbrev  0x00000000      0x279 obj\Debug\RP6Examples_20120725f\RP6Lib\RP6base\RP6RobotBaseLib.o
+ .debug_abbrev  0x00000279       0x9f obj\Debug\RP6Examples_20120725f\RP6Lib\RP6common\RP6I2CslaveTWI.o
+ .debug_abbrev  0x00000318      0x170 obj\Debug\RP6Examples_20120725f\RP6Lib\RP6common\RP6uart.o
+ .debug_abbrev  0x00000488      0x157 obj\Debug\program\DriveTrack\main.o
+
+.debug_line     0x00000000     0x1f75
+ *(.debug_line)
+ .debug_line    0x00000000     0x15fb obj\Debug\RP6Examples_20120725f\RP6Lib\RP6base\RP6RobotBaseLib.o
+ .debug_line    0x000015fb      0x1e2 obj\Debug\RP6Examples_20120725f\RP6Lib\RP6common\RP6I2CslaveTWI.o
+ .debug_line    0x000017dd      0x2d3 obj\Debug\RP6Examples_20120725f\RP6Lib\RP6common\RP6uart.o
+ .debug_line    0x00001ab0      0x4c5 obj\Debug\program\DriveTrack\main.o
+
+.debug_frame    0x00000000      0x470
+ *(.debug_frame)
+ .debug_frame   0x00000000      0x340 obj\Debug\RP6Examples_20120725f\RP6Lib\RP6base\RP6RobotBaseLib.o
+ .debug_frame   0x00000340       0x30 obj\Debug\RP6Examples_20120725f\RP6Lib\RP6common\RP6I2CslaveTWI.o
+ .debug_frame   0x00000370       0xc0 obj\Debug\RP6Examples_20120725f\RP6Lib\RP6common\RP6uart.o
+ .debug_frame   0x00000430       0x40 obj\Debug\program\DriveTrack\main.o
+
+.debug_str      0x00000000      0xdbe
+ *(.debug_str)
+ .debug_str     0x00000000      0xa06 obj\Debug\RP6Examples_20120725f\RP6Lib\RP6base\RP6RobotBaseLib.o
+                                0xa9c (size before relaxing)
+ .debug_str     0x00000a06      0x106 obj\Debug\RP6Examples_20120725f\RP6Lib\RP6common\RP6I2CslaveTWI.o
+                                0x1e5 (size before relaxing)
+ .debug_str     0x00000b0c      0x161 obj\Debug\RP6Examples_20120725f\RP6Lib\RP6common\RP6uart.o
+                                0x26b (size before relaxing)
+ .debug_str     0x00000c6d      0x151 obj\Debug\program\DriveTrack\main.o
+                                0x2eb (size before relaxing)
+
+.debug_loc
+ *(.debug_loc)
+
+.debug_macinfo
+ *(.debug_macinfo)
+OUTPUT(bin\Debug\Robot.elf elf32-avr)
+LOAD linker stubs
+
+Cross Reference Table
+
+Symbol                                            File
+ACS_setStateChangedHandler                        obj\Debug\RP6Examples_20120725f\RP6Lib\RP6base\RP6RobotBaseLib.o
+ACS_stateChanged_DUMMY                            obj\Debug\RP6Examples_20120725f\RP6Lib\RP6base\RP6RobotBaseLib.o
+BUMPERS_setStateChangedHandler                    obj\Debug\RP6Examples_20120725f\RP6Lib\RP6base\RP6RobotBaseLib.o
+BUMPERS_stateChanged_DUMMY                        obj\Debug\RP6Examples_20120725f\RP6Lib\RP6base\RP6RobotBaseLib.o
+I2CTWI_dataReadFromReg                            obj\Debug\RP6Examples_20120725f\RP6Lib\RP6common\RP6I2CslaveTWI.o
+I2CTWI_dataWasRead                                obj\Debug\RP6Examples_20120725f\RP6Lib\RP6common\RP6I2CslaveTWI.o
+I2CTWI_genCallCMD                                 obj\Debug\RP6Examples_20120725f\RP6Lib\RP6common\RP6I2CslaveTWI.o
+I2CTWI_initSlave                                  obj\Debug\RP6Examples_20120725f\RP6Lib\RP6common\RP6I2CslaveTWI.o
+I2CTWI_readBusy                                   obj\Debug\RP6Examples_20120725f\RP6Lib\RP6common\RP6I2CslaveTWI.o
+I2CTWI_readRegisters                              obj\Debug\RP6Examples_20120725f\RP6Lib\RP6common\RP6I2CslaveTWI.o
+I2CTWI_writeBusy                                  obj\Debug\RP6Examples_20120725f\RP6Lib\RP6common\RP6I2CslaveTWI.o
+I2CTWI_writeRegisters                             obj\Debug\RP6Examples_20120725f\RP6Lib\RP6common\RP6I2CslaveTWI.o
+IRCOMM_RC5_data                                   obj\Debug\RP6Examples_20120725f\RP6Lib\RP6base\RP6RobotBaseLib.o
+IRCOMM_RC5_data_ok                                obj\Debug\RP6Examples_20120725f\RP6Lib\RP6base\RP6RobotBaseLib.o
+IRCOMM_RC5dataReady_DUMMY                         obj\Debug\RP6Examples_20120725f\RP6Lib\RP6base\RP6RobotBaseLib.o
+IRCOMM_sendRC5                                    obj\Debug\RP6Examples_20120725f\RP6Lib\RP6base\RP6RobotBaseLib.o
+IRCOMM_setRC5DataReadyHandler                     obj\Debug\RP6Examples_20120725f\RP6Lib\RP6base\RP6RobotBaseLib.o
+MOTIONCONTROL_setStateChangedHandler              obj\Debug\RP6Examples_20120725f\RP6Lib\RP6base\RP6RobotBaseLib.o
+MOTIONCONTROL_stateChanged_DUMMY                  obj\Debug\RP6Examples_20120725f\RP6Lib\RP6base\RP6RobotBaseLib.o
+RP6Settings                                       obj\Debug\program\DriveTrack\main.o
+RP6State                                          obj\Debug\program\DriveTrack\main.o
+__bad_interrupt                                   c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+__bss_end                                         c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clear_bss.o)
+__bss_start                                       c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clear_bss.o)
+__data_end                                        c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_copy_data.o)
+__data_load_start                                 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_copy_data.o)
+__data_start                                      c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_copy_data.o)
+__do_clear_bss                                    c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clear_bss.o)
+                                                  obj\Debug\program\DriveTrack\main.o
+                                                  obj\Debug\RP6Examples_20120725f\RP6Lib\RP6common\RP6uart.o
+                                                  obj\Debug\RP6Examples_20120725f\RP6Lib\RP6common\RP6I2CslaveTWI.o
+                                                  obj\Debug\RP6Examples_20120725f\RP6Lib\RP6base\RP6RobotBaseLib.o
+__do_copy_data                                    c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_copy_data.o)
+                                                  obj\Debug\program\DriveTrack\main.o
+                                                  obj\Debug\RP6Examples_20120725f\RP6Lib\RP6base\RP6RobotBaseLib.o
+__heap_end                                        c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+__init                                            c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+__mulsi3                                          c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mulsi3.o)
+                                                  obj\Debug\RP6Examples_20120725f\RP6Lib\RP6base\RP6RobotBaseLib.o
+__stack                                           c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+__udivmodhi4                                      c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_udivmodhi4.o)
+                                                  C:\WinAVR-20100110\avr\lib\libc.a(itoa.o)
+                                                  obj\Debug\RP6Examples_20120725f\RP6Lib\RP6base\RP6RobotBaseLib.o
+__udivmodsi4                                      c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_udivmodsi4.o)
+                                                  obj\Debug\RP6Examples_20120725f\RP6Lib\RP6base\RP6RobotBaseLib.o
+__vector_1                                        obj\Debug\RP6Examples_20120725f\RP6Lib\RP6base\RP6RobotBaseLib.o
+                                                  c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+__vector_10                                       obj\Debug\RP6Examples_20120725f\RP6Lib\RP6base\RP6RobotBaseLib.o
+                                                  c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+__vector_11                                       c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+__vector_12                                       c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+__vector_13                                       obj\Debug\RP6Examples_20120725f\RP6Lib\RP6common\RP6uart.o
+                                                  c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+__vector_14                                       c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+__vector_15                                       c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+__vector_16                                       c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+__vector_17                                       c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+__vector_18                                       c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+__vector_19                                       obj\Debug\RP6Examples_20120725f\RP6Lib\RP6common\RP6I2CslaveTWI.o
+                                                  c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+__vector_2                                        obj\Debug\RP6Examples_20120725f\RP6Lib\RP6base\RP6RobotBaseLib.o
+                                                  c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+__vector_20                                       c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+__vector_3                                        obj\Debug\RP6Examples_20120725f\RP6Lib\RP6base\RP6RobotBaseLib.o
+                                                  c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+__vector_4                                        obj\Debug\RP6Examples_20120725f\RP6Lib\RP6base\RP6RobotBaseLib.o
+                                                  c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+__vector_5                                        c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+__vector_6                                        c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+__vector_7                                        c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+__vector_8                                        c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+__vector_9                                        c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+__vector_default                                  c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+__vectors                                         c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+_exit                                             c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_exit.o)
+acs_event_counter                                 obj\Debug\RP6Examples_20120725f\RP6Lib\RP6base\RP6RobotBaseLib.o
+acs_pulse                                         obj\Debug\RP6Examples_20120725f\RP6Lib\RP6base\RP6RobotBaseLib.o
+acs_state                                         obj\Debug\RP6Examples_20120725f\RP6Lib\RP6base\RP6RobotBaseLib.o
+acs_timer                                         obj\Debug\RP6Examples_20120725f\RP6Lib\RP6base\RP6RobotBaseLib.o
+adc0                                              obj\Debug\RP6Examples_20120725f\RP6Lib\RP6base\RP6RobotBaseLib.o
+adc1                                              obj\Debug\RP6Examples_20120725f\RP6Lib\RP6base\RP6RobotBaseLib.o
+adcBat                                            obj\Debug\RP6Examples_20120725f\RP6Lib\RP6base\RP6RobotBaseLib.o
+adcLSL                                            obj\Debug\RP6Examples_20120725f\RP6Lib\RP6base\RP6RobotBaseLib.o
+adcLSR                                            obj\Debug\RP6Examples_20120725f\RP6Lib\RP6base\RP6RobotBaseLib.o
+adcMotorCurrentLeft                               obj\Debug\RP6Examples_20120725f\RP6Lib\RP6base\RP6RobotBaseLib.o
+adcMotorCurrentRight                              obj\Debug\RP6Examples_20120725f\RP6Lib\RP6base\RP6RobotBaseLib.o
+bumper_left                                       obj\Debug\program\DriveTrack\main.o
+                                                  obj\Debug\RP6Examples_20120725f\RP6Lib\RP6base\RP6RobotBaseLib.o
+bumper_right                                      obj\Debug\program\DriveTrack\main.o
+                                                  obj\Debug\RP6Examples_20120725f\RP6Lib\RP6base\RP6RobotBaseLib.o
+bumper_timer                                      obj\Debug\RP6Examples_20120725f\RP6Lib\RP6base\RP6RobotBaseLib.o
+changeDirection                                   obj\Debug\RP6Examples_20120725f\RP6Lib\RP6base\RP6RobotBaseLib.o
+clearReceptionBuffer                              obj\Debug\RP6Examples_20120725f\RP6Lib\RP6common\RP6uart.o
+delayCycles                                       obj\Debug\RP6Examples_20120725f\RP6Lib\RP6base\RP6RobotBaseLib.o
+delay_timer                                       obj\Debug\RP6Examples_20120725f\RP6Lib\RP6base\RP6RobotBaseLib.o
+disableACS                                        obj\Debug\RP6Examples_20120725f\RP6Lib\RP6base\RP6RobotBaseLib.o
+disablePowerOnWarning                             obj\Debug\RP6Examples_20120725f\RP6Lib\RP6base\RP6RobotBaseLib.o
+distanceToMove_L                                  obj\Debug\RP6Examples_20120725f\RP6Lib\RP6base\RP6RobotBaseLib.o
+distanceToMove_R                                  obj\Debug\RP6Examples_20120725f\RP6Lib\RP6base\RP6RobotBaseLib.o
+drive_dir                                         obj\Debug\RP6Examples_20120725f\RP6Lib\RP6base\RP6RobotBaseLib.o
+emergencyShutdown                                 obj\Debug\RP6Examples_20120725f\RP6Lib\RP6base\RP6RobotBaseLib.o
+enableACS                                         obj\Debug\RP6Examples_20120725f\RP6Lib\RP6base\RP6RobotBaseLib.o
+enablePowerOnWarning                              obj\Debug\RP6Examples_20120725f\RP6Lib\RP6base\RP6RobotBaseLib.o
+evalSettings                                      obj\Debug\program\DriveTrack\main.o
+exit                                              c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_exit.o)
+                                                  c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+extIntOFF                                         obj\Debug\RP6Examples_20120725f\RP6Lib\RP6base\RP6RobotBaseLib.o
+extIntON                                          obj\Debug\RP6Examples_20120725f\RP6Lib\RP6base\RP6RobotBaseLib.o
+getBufferLength                                   obj\Debug\RP6Examples_20120725f\RP6Lib\RP6common\RP6uart.o
+getBumperLeft                                     obj\Debug\RP6Examples_20120725f\RP6Lib\RP6base\RP6RobotBaseLib.o
+getBumperRight                                    obj\Debug\RP6Examples_20120725f\RP6Lib\RP6base\RP6RobotBaseLib.o
+initRobotBase                                     obj\Debug\RP6Examples_20120725f\RP6Lib\RP6base\RP6RobotBaseLib.o
+                                                  obj\Debug\program\DriveTrack\main.o
+ircomm_data                                       obj\Debug\RP6Examples_20120725f\RP6Lib\RP6base\RP6RobotBaseLib.o
+ircomm_data_tmp                                   obj\Debug\RP6Examples_20120725f\RP6Lib\RP6base\RP6RobotBaseLib.o
+ircomm_send                                       obj\Debug\RP6Examples_20120725f\RP6Lib\RP6base\RP6RobotBaseLib.o
+isMovementComplete                                obj\Debug\RP6Examples_20120725f\RP6Lib\RP6base\RP6RobotBaseLib.o
+                                                  obj\Debug\program\DriveTrack\main.o
+itoa                                              C:\WinAVR-20100110\avr\lib\libc.a(itoa.o)
+                                                  obj\Debug\RP6Examples_20120725f\RP6Lib\RP6common\RP6uart.o
+leds_on                                           obj\Debug\RP6Examples_20120725f\RP6Lib\RP6base\RP6RobotBaseLib.o
+left_i                                            obj\Debug\RP6Examples_20120725f\RP6Lib\RP6base\RP6RobotBaseLib.o
+mSleep                                            obj\Debug\RP6Examples_20120725f\RP6Lib\RP6base\RP6RobotBaseLib.o
+main                                              obj\Debug\program\DriveTrack\main.o
+                                                  c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+mleft_counter                                     obj\Debug\RP6Examples_20120725f\RP6Lib\RP6base\RP6RobotBaseLib.o
+mleft_des_dir                                     obj\Debug\RP6Examples_20120725f\RP6Lib\RP6base\RP6RobotBaseLib.o
+mleft_des_speed                                   obj\Debug\RP6Examples_20120725f\RP6Lib\RP6base\RP6RobotBaseLib.o
+mleft_des_speed_tmp                               obj\Debug\RP6Examples_20120725f\RP6Lib\RP6base\RP6RobotBaseLib.o
+mleft_dir                                         obj\Debug\RP6Examples_20120725f\RP6Lib\RP6base\RP6RobotBaseLib.o
+mleft_dist                                        obj\Debug\program\DriveTrack\main.o
+                                                  obj\Debug\RP6Examples_20120725f\RP6Lib\RP6base\RP6RobotBaseLib.o
+mleft_power                                       obj\Debug\RP6Examples_20120725f\RP6Lib\RP6base\RP6RobotBaseLib.o
+mleft_ptmp                                        obj\Debug\RP6Examples_20120725f\RP6Lib\RP6base\RP6RobotBaseLib.o
+mleft_speed                                       obj\Debug\RP6Examples_20120725f\RP6Lib\RP6base\RP6RobotBaseLib.o
+motion_status                                     obj\Debug\program\DriveTrack\main.o
+                                                  obj\Debug\RP6Examples_20120725f\RP6Lib\RP6base\RP6RobotBaseLib.o
+motion_status_tmp                                 obj\Debug\RP6Examples_20120725f\RP6Lib\RP6base\RP6RobotBaseLib.o
+motor_control                                     obj\Debug\RP6Examples_20120725f\RP6Lib\RP6base\RP6RobotBaseLib.o
+move                                              obj\Debug\RP6Examples_20120725f\RP6Lib\RP6base\RP6RobotBaseLib.o
+                                                  obj\Debug\program\DriveTrack\main.o
+moveAtSpeed                                       obj\Debug\RP6Examples_20120725f\RP6Lib\RP6base\RP6RobotBaseLib.o
+moveAtSpeedDirection                              obj\Debug\RP6Examples_20120725f\RP6Lib\RP6base\RP6RobotBaseLib.o
+mright_counter                                    obj\Debug\RP6Examples_20120725f\RP6Lib\RP6base\RP6RobotBaseLib.o
+mright_des_dir                                    obj\Debug\RP6Examples_20120725f\RP6Lib\RP6base\RP6RobotBaseLib.o
+mright_des_speed                                  obj\Debug\RP6Examples_20120725f\RP6Lib\RP6base\RP6RobotBaseLib.o
+mright_des_speed_tmp                              obj\Debug\RP6Examples_20120725f\RP6Lib\RP6base\RP6RobotBaseLib.o
+mright_dir                                        obj\Debug\RP6Examples_20120725f\RP6Lib\RP6base\RP6RobotBaseLib.o
+mright_dist                                       obj\Debug\RP6Examples_20120725f\RP6Lib\RP6base\RP6RobotBaseLib.o
+mright_power                                      obj\Debug\RP6Examples_20120725f\RP6Lib\RP6base\RP6RobotBaseLib.o
+mright_ptmp                                       obj\Debug\RP6Examples_20120725f\RP6Lib\RP6base\RP6RobotBaseLib.o
+mright_speed                                      obj\Debug\RP6Examples_20120725f\RP6Lib\RP6base\RP6RobotBaseLib.o
+ms_timer                                          obj\Debug\RP6Examples_20120725f\RP6Lib\RP6base\RP6RobotBaseLib.o
+obstacle_left                                     obj\Debug\RP6Examples_20120725f\RP6Lib\RP6base\RP6RobotBaseLib.o
+obstacle_right                                    obj\Debug\RP6Examples_20120725f\RP6Lib\RP6base\RP6RobotBaseLib.o
+overcurrent_error_clear                           obj\Debug\RP6Examples_20120725f\RP6Lib\RP6base\RP6RobotBaseLib.o
+overcurrent_errors                                obj\Debug\RP6Examples_20120725f\RP6Lib\RP6base\RP6RobotBaseLib.o
+overcurrent_timeout                               obj\Debug\RP6Examples_20120725f\RP6Lib\RP6base\RP6RobotBaseLib.o
+overcurrent_timer                                 obj\Debug\RP6Examples_20120725f\RP6Lib\RP6base\RP6RobotBaseLib.o
+powerOFF                                          obj\Debug\RP6Examples_20120725f\RP6Lib\RP6base\RP6RobotBaseLib.o
+powerON                                           obj\Debug\RP6Examples_20120725f\RP6Lib\RP6base\RP6RobotBaseLib.o
+                                                  obj\Debug\program\DriveTrack\main.o
+preDecelerate_L                                   obj\Debug\RP6Examples_20120725f\RP6Lib\RP6base\RP6RobotBaseLib.o
+preDecelerate_R                                   obj\Debug\RP6Examples_20120725f\RP6Lib\RP6base\RP6RobotBaseLib.o
+preStop_L                                         obj\Debug\RP6Examples_20120725f\RP6Lib\RP6base\RP6RobotBaseLib.o
+preStop_R                                         obj\Debug\RP6Examples_20120725f\RP6Lib\RP6base\RP6RobotBaseLib.o
+readADC                                           obj\Debug\RP6Examples_20120725f\RP6Lib\RP6base\RP6RobotBaseLib.o
+readChar                                          obj\Debug\RP6Examples_20120725f\RP6Lib\RP6common\RP6uart.o
+readChars                                         obj\Debug\RP6Examples_20120725f\RP6Lib\RP6common\RP6uart.o
+read_pos                                          obj\Debug\RP6Examples_20120725f\RP6Lib\RP6common\RP6uart.o
+read_size                                         obj\Debug\RP6Examples_20120725f\RP6Lib\RP6common\RP6uart.o
+right_i                                           obj\Debug\RP6Examples_20120725f\RP6Lib\RP6base\RP6RobotBaseLib.o
+rotate                                            obj\Debug\RP6Examples_20120725f\RP6Lib\RP6base\RP6RobotBaseLib.o
+                                                  obj\Debug\program\DriveTrack\main.o
+setACSPwrHigh                                     obj\Debug\RP6Examples_20120725f\RP6Lib\RP6base\RP6RobotBaseLib.o
+setACSPwrLow                                      obj\Debug\RP6Examples_20120725f\RP6Lib\RP6base\RP6RobotBaseLib.o
+setACSPwrMed                                      obj\Debug\RP6Examples_20120725f\RP6Lib\RP6base\RP6RobotBaseLib.o
+setACSPwrOff                                      obj\Debug\RP6Examples_20120725f\RP6Lib\RP6base\RP6RobotBaseLib.o
+setLEDs                                           obj\Debug\RP6Examples_20120725f\RP6Lib\RP6base\RP6RobotBaseLib.o
+setMotorDir                                       obj\Debug\RP6Examples_20120725f\RP6Lib\RP6base\RP6RobotBaseLib.o
+setMotorPower                                     obj\Debug\RP6Examples_20120725f\RP6Lib\RP6base\RP6RobotBaseLib.o
+sleep                                             obj\Debug\RP6Examples_20120725f\RP6Lib\RP6base\RP6RobotBaseLib.o
+speed_adjust_timer                                obj\Debug\RP6Examples_20120725f\RP6Lib\RP6base\RP6RobotBaseLib.o
+speed_timer                                       obj\Debug\RP6Examples_20120725f\RP6Lib\RP6base\RP6RobotBaseLib.o
+startADC                                          obj\Debug\RP6Examples_20120725f\RP6Lib\RP6base\RP6RobotBaseLib.o
+stateMachine                                      obj\Debug\program\DriveTrack\main.o
+statusLEDs                                        obj\Debug\program\DriveTrack\main.o
+                                                  obj\Debug\RP6Examples_20120725f\RP6Lib\RP6base\RP6RobotBaseLib.o
+stop                                              obj\Debug\RP6Examples_20120725f\RP6Lib\RP6base\RP6RobotBaseLib.o
+stopwatches                                       obj\Debug\program\DriveTrack\main.o
+                                                  obj\Debug\RP6Examples_20120725f\RP6Lib\RP6base\RP6RobotBaseLib.o
+strlen                                            C:\WinAVR-20100110\avr\lib\libc.a(strlen.o)
+                                                  obj\Debug\RP6Examples_20120725f\RP6Lib\RP6common\RP6uart.o
+strrev                                            C:\WinAVR-20100110\avr\lib\libc.a(strrev.o)
+                                                  C:\WinAVR-20100110\avr\lib\libc.a(itoa.o)
+sysStatACS                                        obj\Debug\RP6Examples_20120725f\RP6Lib\RP6base\RP6RobotBaseLib.o
+task_ACS                                          obj\Debug\RP6Examples_20120725f\RP6Lib\RP6base\RP6RobotBaseLib.o
+task_ADC                                          obj\Debug\RP6Examples_20120725f\RP6Lib\RP6base\RP6RobotBaseLib.o
+task_Bumpers                                      obj\Debug\RP6Examples_20120725f\RP6Lib\RP6base\RP6RobotBaseLib.o
+task_RP6System                                    obj\Debug\RP6Examples_20120725f\RP6Lib\RP6base\RP6RobotBaseLib.o
+                                                  obj\Debug\program\DriveTrack\main.o
+task_motionControl                                obj\Debug\RP6Examples_20120725f\RP6Lib\RP6base\RP6RobotBaseLib.o
+timer                                             obj\Debug\program\DriveTrack\main.o
+                                                  obj\Debug\RP6Examples_20120725f\RP6Lib\RP6base\RP6RobotBaseLib.o
+uart_receive_buffer                               obj\Debug\RP6Examples_20120725f\RP6Lib\RP6common\RP6uart.o
+uart_status                                       obj\Debug\RP6Examples_20120725f\RP6Lib\RP6common\RP6uart.o
+updateStatusLEDs                                  obj\Debug\RP6Examples_20120725f\RP6Lib\RP6base\RP6RobotBaseLib.o
+writeChar                                         obj\Debug\RP6Examples_20120725f\RP6Lib\RP6common\RP6uart.o
+writeInteger                                      obj\Debug\RP6Examples_20120725f\RP6Lib\RP6common\RP6uart.o
+writeIntegerLength                                obj\Debug\RP6Examples_20120725f\RP6Lib\RP6common\RP6uart.o
+writeNStringP                                     obj\Debug\RP6Examples_20120725f\RP6Lib\RP6common\RP6uart.o
+                                                  obj\Debug\RP6Examples_20120725f\RP6Lib\RP6base\RP6RobotBaseLib.o
+writeString                                       obj\Debug\RP6Examples_20120725f\RP6Lib\RP6common\RP6uart.o
+                                                  obj\Debug\program\DriveTrack\main.o
+writeStringLength                                 obj\Debug\RP6Examples_20120725f\RP6Lib\RP6common\RP6uart.o
+write_pos                                         obj\Debug\RP6Examples_20120725f\RP6Lib\RP6common\RP6uart.o
+write_size                                        obj\Debug\RP6Examples_20120725f\RP6Lib\RP6common\RP6uart.o
